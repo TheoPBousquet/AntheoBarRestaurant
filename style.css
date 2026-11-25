@@ -86,7 +86,7 @@ content {
     background-color : #1a2529;
     background-position: center;
     background-attachment: fixed;
-    width: 98vw;
+    width: 100vw;
 
 }
 
@@ -101,7 +101,7 @@ homepage {
     color: white;
     font-size: 2vh;
     gap : 2vh;
-    width: 78vw;
+    width: 80vw;
 }
 
 hometext, fermeture{
@@ -131,7 +131,7 @@ mainlogo {
     display: flex;
     justify-content: center;
     padding: 1vh 2vw;
-    height:50vh;
+    height:40vh;
 }
 
 scrollcontent{
@@ -141,7 +141,7 @@ scrollcontent{
     justify-content: center;
     align-items: center;
     color: #1A2529;
-    width: 98vw;
+    width: 100vw;
 }
 
 .section{
