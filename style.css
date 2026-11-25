@@ -86,7 +86,7 @@ content {
     background-color : #1a2529;
     background-position: center;
     background-attachment: fixed;
-    width: 100vw;
+    width: 98vw;
 
 }
 
@@ -101,7 +101,7 @@ homepage {
     color: white;
     font-size: 2vh;
     gap : 2vh;
-    width: 80vw;
+    width: 78vw;
 }
 
 hometext, fermeture{
@@ -141,7 +141,7 @@ scrollcontent{
     justify-content: center;
     align-items: center;
     color: #1A2529;
-    width: 100vw;
+    width: 98vw;
 }
 
 .section{
