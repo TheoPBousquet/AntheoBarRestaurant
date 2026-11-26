@@ -6,7 +6,7 @@ head {
 html, body, p, h1, h2 {
   margin: 0;
   padding: 0;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
 }
 
 .prevent-select {
